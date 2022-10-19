@@ -13,13 +13,13 @@ Actualmente no tengo experiencia laboral pero, tengo muchas ganas de introducirm
 Mi objetivo es completar el ciclo medio sobre microinformática y redes para poder acceder a un grado superior sobre ciberseguridad. Una vez realizado estos dos ciclos, me gustaría estudiar una carrera, concretamente ingeniería informática. 
 
 ## Características
-1 Escucha activa 
-1 Agradable y amable 
-1 Capacidad de trabajo bajo presión 
-1 Empático
-1 Positivo
-1 Persistente
-1 Actitud
-1 Productividad
-1 Trabajo en equipo
-1 Capacidad de adaptación
+1Escucha activa 
+2Agradable y amable 
+3apacidad de trabajo bajo presión 
+4mpático
+5sitivo
+6rsistente
+7ctitud
+8roductividad
+9rabajo en equipo
+10apacidad de adaptación
