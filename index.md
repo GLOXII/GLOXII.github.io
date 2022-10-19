@@ -15,11 +15,11 @@ Mi objetivo es completar el ciclo medio sobre microinformática y redes para pod
 ## Características
 1. Escucha activa 
 2. Agradable y amable 
-3. apacidad de trabajo bajo presión 
-4. mpático
-5. sitivo
-6. rsistente
-7. ctitud
-8. roductividad
-9. rabajo en equipo
-10. apacidad de adaptación
+3. Capacidad de trabajo bajo presión 
+4. Empático
+5. Sitivo
+6. Persistente
+7. Actitud
+8. Productividad
+9. Trabajo en equipo
+10. Capacidad de adaptación
