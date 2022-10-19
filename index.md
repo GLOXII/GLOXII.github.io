@@ -21,7 +21,7 @@ Mi objetivo es completar el ciclo medio sobre microinformática y redes para pod
 
 
 
-## **Características**
+## **_Características_**
 1. Escucha activa 
 2. Agradable y amable 
 3. Capacidad de trabajo bajo presión 
@@ -31,3 +31,10 @@ Mi objetivo es completar el ciclo medio sobre microinformática y redes para pod
 7. Productividad
 8. Trabajo en equipo
 9. Capacidad de adaptación
+
+
+## **_Actividades e intereses_**
+- Running
+- Krav Maga
+- Leer
+- Videojuegos
