@@ -4,6 +4,7 @@ Me llamo Adrià Trillo Rodríguez y soy estudiate de SMX2 (sistemas microinform�
 ##Experiencia laboral
 Actualmente no tengo experiencia laboral pero, tengo muchas ganas de introducirme en un grupo de trabajo para poder aportar mis conocimientos y aprender otros nuevos. 
 
+
 ## **Formación**
 - Título de ESO Garbí Pere Vergés
 - MOS Excel Expert
@@ -14,8 +15,11 @@ Actualmente no tengo experiencia laboral pero, tengo muchas ganas de introducirm
 - Catalán - nativo
 - Castellano - nativo
 
+
 ## **Objetivo**
 Mi objetivo es completar el ciclo medio sobre microinformática y redes para poder acceder a un grado superior sobre ciberseguridad. Una vez realizado estos dos ciclos, me gustaría estudiar una carrera, concretamente ingeniería informática. 
+
+
 
 ## **Características**
 1. Escucha activa 
