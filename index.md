@@ -9,6 +9,11 @@ Actualmente no tengo experiencia laboral pero, tengo muchas ganas de introducirm
 - MOS Excel Expert
 - Estudiante de sistemas microinformáticos y redes
 
+## **Idiomas**
+- Inglés - medio
+- Catalán - nativo
+- Castellano - nativo
+
 ## **Objetivo**
 Mi objetivo es completar el ciclo medio sobre microinformática y redes para poder acceder a un grado superior sobre ciberseguridad. Una vez realizado estos dos ciclos, me gustaría estudiar una carrera, concretamente ingeniería informática. 
 
