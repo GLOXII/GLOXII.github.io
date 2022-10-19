@@ -4,6 +4,7 @@ Me llamo Adrià Trillo Rodríguez y soy estudiate de SMX2 (sistemas microinform�
 ##Experiencia laboral
 Actualmente no tengo experiencia laboral pero, tengo muchas ganas de introducirme en un grupo de trabajo para poder aportar mis conocimientos y aprender otros nuevos. 
 
+github alex: https://aviladotgibert.github.io/
 
 ## **Formación**
 - Título de ESO Garbí Pere Vergés
