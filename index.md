@@ -1,25 +1,25 @@
 ![Image](fotito.jpg) 
 # **_Adrià Trillo Rodríguez_**
 
-## Perfil
+## **_Perfil_**
 Me llamo Adrià Trillo Rodríguez y soy estudiate de SMX2 (sistemas microinformáticos y redes).
 ##Experiencia laboral
 Actualmente no tengo experiencia laboral pero, tengo muchas ganas de introducirme en un grupo de trabajo para poder aportar mis conocimientos y aprender otros nuevos. 
 
 github alex: https://aviladotgibert.github.io/
 
-## **Formación**
+## **_Formación_**
 - Título de ESO Garbí Pere Vergés
 - MOS Excel Expert
 - Estudiante de sistemas microinformáticos y redes
 
-## **Idiomas**
+## **_Idiomas_**
 - Inglés - medio
 - Catalán - nativo
 - Castellano - nativo
 
 
-## **Objetivo**
+## **_Objetivo_**
 Mi objetivo es completar el ciclo medio sobre microinformática y redes para poder acceder a un grado superior sobre ciberseguridad. Una vez realizado estos dos ciclos, me gustaría estudiar una carrera, concretamente ingeniería informática. 
 
 
