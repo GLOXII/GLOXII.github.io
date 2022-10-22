@@ -1,5 +1,7 @@
 ![Image](fotito.jpg) 
 # **_Adrià Trillo Rodríguez_**
+
+## Perfil
 Me llamo Adrià Trillo Rodríguez y soy estudiate de SMX2 (sistemas microinformáticos y redes).
 ##Experiencia laboral
 Actualmente no tengo experiencia laboral pero, tengo muchas ganas de introducirme en un grupo de trabajo para poder aportar mis conocimientos y aprender otros nuevos. 
@@ -35,7 +37,6 @@ Mi objetivo es completar el ciclo medio sobre microinformática y redes para pod
 
 
 ## **_Actividades e intereses_**
-- Running
 - Krav Maga
 - Leer
 - Videojuegos
